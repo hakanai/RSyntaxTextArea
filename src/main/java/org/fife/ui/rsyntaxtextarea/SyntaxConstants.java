@@ -41,6 +41,12 @@ public interface SyntaxConstants {
 
 
 	/**
+	 * Style for highlighting AppleScript.
+	 */
+	public static final String SYNTAX_STYLE_APPLESCRIPT		= "text/applescript";
+
+
+	/**
 	 * Style for highlighting x86 assembler.
 	 */
 	public static final String SYNTAX_STYLE_ASSEMBLER_X86	= "text/asm";
