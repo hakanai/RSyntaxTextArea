@@ -1,7 +1,7 @@
 /*
  * 02/15/2015
  *
- * AppleScriptTokenMaker.java - Scanner for Visual Basic
+ * AppleScriptTokenMaker.java - Scanner for AppleScript
  * 
  * This library is distributed under a modified BSD license.  See the included
  * RSyntaxTextArea.License.txt file for details.
